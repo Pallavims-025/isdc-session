@@ -1,0 +1,4 @@
+Hello everyone
+welcome to isdc guthub workshops
+this fie is by pallavi
+and this is the session for git and github
